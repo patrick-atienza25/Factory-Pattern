@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2qPfwGDLO3rMg5tyO8JgwdzFpnvOFdOy2iFJ/XEy1Ye3sLh+Op9jQ94HrvhslnOxSjBsa59Il59DJFjydWonA==",
+  "dgSpecHash": "ez614dqo0jJfqUa/x6Vk6nkdwCxt1BV4kR9pPKrlibF/tHzjJyymXpb9OY17M+JCs+rTMFO+xERURDYdDXyJWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tange\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+  "projectFilePath": "C:\\Users\\Tat\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

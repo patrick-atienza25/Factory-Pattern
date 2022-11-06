@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tange\\.nuget\\packages\\": {}
+    "C:\\Users\\Tat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tange\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectUniqueName": "C:\\Users\\Tat\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
       "projectName": "FactoryPattern",
-      "projectPath": "C:\\Users\\tange\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
-      "packagesPath": "C:\\Users\\tange\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tange\\repos\\Factory-Pattern\\FactoryPattern\\obj\\",
+      "projectPath": "C:\\Users\\Tat\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+      "packagesPath": "C:\\Users\\Tat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tat\\repos\\Factory-Pattern\\FactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tange\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

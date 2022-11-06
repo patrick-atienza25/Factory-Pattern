@@ -9,7 +9,6 @@
 
             IVehicle vehicle = VehicleFactory.GetVehicle(userInput);
             vehicle.Drive();
-            Console.ReadLine();
         }
     }
 }

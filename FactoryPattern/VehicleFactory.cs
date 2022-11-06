@@ -13,11 +13,9 @@ namespace FactoryPattern
             switch(NumOfWheels)
             {
                 case "two":
-                    return new Motorcycle();
                 case "2":
                     return new Motorcycle();
                 case "four":
-                    return new Car();
                 case "4":
                     return new Car();
                 default:
